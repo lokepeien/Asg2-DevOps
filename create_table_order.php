@@ -7,7 +7,7 @@
     die("Connection Fail");
  }
 
- $sql = "CREATE TABLE `ORDER`(
+ $sql = "CREATE TABLE `order`(
             order_id int primary key auto_increment,
             tea_id int,
             quantity int,

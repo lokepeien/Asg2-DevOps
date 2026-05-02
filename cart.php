@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Megrim&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Unica+One&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400;600&display=swap" rel="stylesheet">
-    <title>Document</title>
+    <title>Chatea</title>
 </head>
 
 <body>
